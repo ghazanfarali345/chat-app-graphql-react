@@ -1,0 +1,14 @@
+{
+  "name": "graphql-chat-app",
+  "version": "1.0.0",
+  "description": "Chat app with graphql and react",
+  "main": "index.js",
+  "author": "Ghazanfar Ali",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
